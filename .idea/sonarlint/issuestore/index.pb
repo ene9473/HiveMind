@@ -11,3 +11,5 @@ O
 tests/reputation-system.test.ts,6/9/6907ff0c07493f1fa039cd71e6369818d97c7647
 R
 "contracts/solution-management.clar,d/7/d75ee8b39148c8b2c1db03bad165c648afd55aee
+Q
+!tests/solution-management.test.ts,5/6/56e7d5551c2d609b377ce375455b95802937c3ee
