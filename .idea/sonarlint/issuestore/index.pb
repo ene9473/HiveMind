@@ -5,3 +5,5 @@ Q
 !contracts/problem-submission.clar,b/4/b4d224345f7ff8871c54932a9f36c44d7aa5d715
 P
  tests/problem-submission.test.ts,d/7/d7c05ced3492bb8af9bbc36167a45b12fbad0a31
+P
+ contracts/reputation-system.clar,8/f/8f85a02c68bbab1632e6c7d1d0725529f935513d
